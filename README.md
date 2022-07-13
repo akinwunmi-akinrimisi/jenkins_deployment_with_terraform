@@ -1,2 +1,2 @@
-# jenkins_deployment_with_terraform
-This terraform template can be used to deploy a Jenkins server on AWS
+# highly_available_jenkins_server
+This terraform code deploys a highly available jenkins server in aws
